@@ -1,0 +1,10 @@
+.test-box{
+    border: 2px solid red;
+    /* border-bottom: 2px solid red;
+    border-top: 4px solid blue;
+    border-left: 6px solid orange;
+    border-right: 8px solid black; */
+    padding: 6px;
+    margin: 20px;
+    background-color: yellow;
+}
